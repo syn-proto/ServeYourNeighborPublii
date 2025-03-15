@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://syn-proto.github.io/ServeYourNeighborPublii/sitemap.xml
